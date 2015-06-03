@@ -13,3 +13,6 @@ npm install
 
  <p> *) http://localhost:3000/users </p>
  <p> *) http://localhost:3000/users/1 </p>
+ 
+ <h1>Reference :</h1>
+ https://github.com/marak/Faker.js/
