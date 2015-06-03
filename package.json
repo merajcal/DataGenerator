@@ -1,0 +1,12 @@
+{
+  "name": "faker-demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "faker": "~2.1.3"
+    
+  }
+}
